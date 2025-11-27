@@ -1,4 +1,4 @@
-VIDEO DEMO TO BE ADDED SOON
+VIDEO DEMO TO BE ADDED SOON, MIF files and vga adapter code TBA
 
 # FPGA-based-Dino-Runner
 This project is a hardware implementation of the classic Dino Runner game, synthesized and deployed on an FPGA. 
