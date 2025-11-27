@@ -1,4 +1,4 @@
-VIDEO DEMO TO BE ADDED SOON AND OPEN CV PYTHON CODE
+VIDEO DEMO TO BE ADDED SOON
 
 # FPGA-based-Dino-Runner
 This project is a hardware implementation of the classic Dino Runner game, synthesized and deployed on an FPGA. 
